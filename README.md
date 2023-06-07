@@ -36,10 +36,28 @@
 # USE-CASE
 ![](case.png)
  
-| Кириллов | Владилен | Викторович |
-|--|--|--|
+
+# ERR
+Для курсового проекта была создана база данных.
+
+| Имя  | Тип данных |
+| ------------- | ------------- |
+| Login  | varchar(256)  |
+| Password  | varchar(256)  |
+| FirstName  | varchar(256)  |
+| LastName  | varchar(256)  |
+| UsedServiceID  | int  |
+| Machine name   | varchar(256)  |
+| Machine brand  | varchar(256)  |
+| Year of issue  | Date  |
+| Machine brand  | varchar(256)  |
+| Machine mileage  | Date  |
+| The model of car | varchar(256)  |
+
+## SplashScreen
+При открытии приложения клиенту будет показан splash screen.
 	
-	
+![Alt text](//placehold.it/200x100)](http://example.com/)
 	
 	
 	
