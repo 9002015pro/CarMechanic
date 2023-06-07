@@ -57,7 +57,7 @@
 ## SplashScreen
 При открытии приложения клиенту будет показан splash screen.
 	
-![Alt text](//placehold.it/200x100)](http://example.com/)
+![Alt text](//placehold.it/200x100)](C:\Users\User\Pictures\Screenshots)
 	
 	
 	
